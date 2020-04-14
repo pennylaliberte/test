@@ -1,2 +1,2 @@
 # test
-Giving GIT a whirl!
+Penny's first time out of the shoot!  Wish me luck!
